@@ -1,0 +1,4 @@
+#lg {background-color: lightgray;}
+#border {border-color: black; border-width: 2px; border-style: solid;}
+#padding {padding-left: 10px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;}
+#image {height: 250px; width: 250px; color: red; border-style: dashed; padding: 30px;}
